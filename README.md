@@ -6,3 +6,6 @@ Using HTML CSS JAVASCRIPT
 
 please don't take the output seriously .
 Thank you.
+
+## Demo
+https://lovecalculatorpuspanjali.netlify.app/
